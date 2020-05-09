@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/carRental/static/css/main.8604ba9c.chunk.css",
+    "main.js": "/carRental/static/js/main.6d2f9c01.chunk.js",
+    "main.js.map": "/carRental/static/js/main.6d2f9c01.chunk.js.map",
+    "runtime-main.js": "/carRental/static/js/runtime-main.44b02b0a.js",
+    "runtime-main.js.map": "/carRental/static/js/runtime-main.44b02b0a.js.map",
+    "static/js/2.7a527f3a.chunk.js": "/carRental/static/js/2.7a527f3a.chunk.js",
+    "static/js/2.7a527f3a.chunk.js.map": "/carRental/static/js/2.7a527f3a.chunk.js.map",
+    "index.html": "/carRental/index.html",
+    "precache-manifest.349481392a7e9b8ae6a0e9b044725674.js": "/carRental/precache-manifest.349481392a7e9b8ae6a0e9b044725674.js",
+    "service-worker.js": "/carRental/service-worker.js",
+    "static/css/main.8604ba9c.chunk.css.map": "/carRental/static/css/main.8604ba9c.chunk.css.map",
+    "static/js/2.7a527f3a.chunk.js.LICENSE.txt": "/carRental/static/js/2.7a527f3a.chunk.js.LICENSE.txt",
+    "static/media/1maruti.jpg": "/carRental/static/media/1maruti.0053f3d8.jpg",
+    "static/media/images.png": "/carRental/static/media/images.8a6b58af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44b02b0a.js",
+    "static/js/2.7a527f3a.chunk.js",
+    "static/css/main.8604ba9c.chunk.css",
+    "static/js/main.6d2f9c01.chunk.js"
+  ]
+}
